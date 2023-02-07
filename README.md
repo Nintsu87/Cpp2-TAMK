@@ -1,5 +1,12 @@
 # Cpp2-TAMK
 
+Round 4 (kierros4):
+-------------------
+- teht1: Figure out what is max size of array.
+- teht2: Fetch data from Random.txt and count and sum fetched ints
+- teht3: Write simple html frame into index.html using user input.
+
+
 Round 3 (kierros3):
 -------------------
 - teht1: Ask user seconds and convert it to hours, minutes and seconds. (expecting user to use correct inputs)

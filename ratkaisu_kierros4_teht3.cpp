@@ -27,7 +27,7 @@ int main() {
 			<< name << "<\h1>\n\t</center>\n\t<hr />\n\t"
 			<< description << "\n\t<hr />\n</body>\n</html>";
 		
-		// close the program
+		// close the file
 		outputfile.close();
 	}
 

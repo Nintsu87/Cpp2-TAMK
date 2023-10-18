@@ -20,11 +20,11 @@ int main() {
 
 	// if both roundings are same its either not double or something else is wrong
 	if (round_up == round_down) {
-		cout << "Et antanut desimaalilukua tai käytit pilkkua pisteen sijasta.\n";
+		cout << "Et antanut desimaalilukua tai kÃ¤ytit pilkkua pisteen sijasta.\n";
 	}
 	// tells inbetween which numbers the input value is
 	else {
-		cout << "Luku " << double_number << " on " << round_down << " ja " << round_up << " välillä.\n";
+		cout << "Luku " << double_number << " on " << round_down << " ja " << round_up << " vÃ¤lillÃ¤.\n";
 	}
 
 	return 0;

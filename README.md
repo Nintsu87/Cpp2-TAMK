@@ -1,6 +1,6 @@
 # Cpp2-TAMK
 
-##First half:
+## First half:
 
 Round 1 (kierros1):
 ------------------
@@ -25,3 +25,30 @@ Round 4 (kierros4):
 - teht1: Figure out what is max size of array.
 - teht2: Fetch data from Random.txt and count and sum fetched ints
 - teht3: Write simple html frame into index.html using user input.
+
+## Second half:
+Week 1-2:
+---------
+- learn basics how c++ object works
+- constructors and destructors
+- getters and setters
+
+Week 3:
+-------
+- add const to correct places. NOTE: not every file is corrected
+- object in object
+
+Week 4: 
+-------
+- copy constructor
+- using object as a parameter
+
+Week 5:
+-------
+- inheritance
+
+Week 6:
+--------
+- protected
+- virtual methods
+- override and virtual functions

@@ -23,6 +23,7 @@ Playing around with pointers and arrays.
 - teht3: Write simple html frame into index.html using user input.
 
 ## Second half:
+- Every file in week6 will work and is upgraded gradually week by week, until all objects make a school set-up (school, course, student, teacher, person, date, address and an extra: dice).
 ### Week 1-2:
 - learn basics how c++ object works
 - constructors and destructors

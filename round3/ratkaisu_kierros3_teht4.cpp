@@ -44,17 +44,17 @@ int main() {
 	cin >> eka_aika.sekunnit;
 	cin.ignore(cin.rdbuf()->in_avail());
 		
-	cout << "Anna pienemmän ajan tunnit: ";
+	cout << "Anna pienemmÃ¤n ajan tunnit: ";
 
 	cin >> toka_aika.tunnit;
 	cin.ignore(cin.rdbuf()->in_avail());
 
-	cout << "Anna pienemmän ajan minuutit: ";
+	cout << "Anna pienemmÃ¤n ajan minuutit: ";
 
 	cin >> toka_aika.minuutit;
 	cin.ignore(cin.rdbuf()->in_avail());
 
-	cout << "Anna pienemmän ajan sekunnit: ";
+	cout << "Anna pienemmÃ¤n ajan sekunnit: ";
 
 	cin >> toka_aika.sekunnit;
 	cin.ignore(cin.rdbuf()->in_avail());

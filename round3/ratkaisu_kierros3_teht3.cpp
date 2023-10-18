@@ -119,7 +119,7 @@ int main() {
 
 	// compaire if structs are similar and copying worked
 	if (aika_kopio.tunnit == aika_heratys.tunnit && aika_kopio.minuutit == aika_heratys.minuutit && aika_kopio.sekunnit == aika_heratys.sekunnit) {
-		cout << "\n\"Sisällöt ovat samat.\"";
+		cout << "\n\"SisÃ¤llÃ¶t ovat samat.\"";
 	}
 
 }

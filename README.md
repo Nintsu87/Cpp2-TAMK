@@ -1,5 +1,5 @@
 # Cpp2-TAMK
-
+Tasks and code from second course of C++ in TAMK. I was aiming to get grade 5 (out of 5) and I was successful.
 ## First half:
 
 ### Round 1 (kierros1):

@@ -35,7 +35,7 @@ int main() {
 		// and tells which kind of triangle it is to the user
 		switch (triangle) {
 			case 0:
-				cout << "epäsäännöllisen kolmion.\n"; 
+				cout << "epÃ¤sÃ¤Ã¤nnÃ¶llisen kolmion.\n"; 
 				break;
 			case 1: 
 				cout << "tasakylkisen kolmion.\n"; 
@@ -54,7 +54,7 @@ int main() {
 	}
 	// lets user know if sides didnt make any triangle.
 	else {
-		cout << "Sivut eivät muodostaneet kolmioo.\n";
+		cout << "Sivut eivÃ¤t muodostaneet kolmioo.\n";
 	}
 	return 0;
 }
